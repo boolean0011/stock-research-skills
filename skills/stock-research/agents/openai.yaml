@@ -1,0 +1,4 @@
+interface:
+  display_name: "美股研究编排"
+  short_description: "编排六路美股研究、多空论证与综合裁决，支持个股更新和周度复盘"
+  default_prompt: "使用 $us-equity-research 对指定美股执行完整研究，记录数据来源，输出多空分歧、情景分析和失效条件。"
