@@ -1,6 +1,6 @@
 # 社媒研究
 
-方法来源：原始《社媒分析师.md》。输入为实际能取得的 X、Reddit、Stocktwits 或其他获授权样本；按 contracts.md 交付 `social` 底稿。
+输入为实际能取得的 X、Reddit、Stocktwits 或其他获授权样本；按 contracts.md 交付 `social` 底稿。
 
 ## 采样记录
 
